@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Z170A Gaming M7\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Z170A Gaming M7\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj": {}
+    "E:\\C#\\Intermediate C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj": {
+    "E:\\C#\\Intermediate C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
+        "projectUniqueName": "E:\\C#\\Intermediate C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "E:\\C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
+        "projectPath": "E:\\C#\\Intermediate C#\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
         "packagesPath": "C:\\Users\\Z170A Gaming M7\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Stopwatch\\Stopwatch\\obj\\",
+        "outputPath": "E:\\C#\\Intermediate C#\\Stopwatch\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

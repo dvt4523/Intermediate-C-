@@ -20,6 +20,7 @@ namespace Stopwatch
             }
             
             start = DateTime.Now;
+            Console.WriteLine("Watch is running...");
             isRunning = true;
         }
 
@@ -31,6 +32,7 @@ namespace Stopwatch
             }
 
             end = DateTime.Now;
+            Console.WriteLine("The watch has stoped.");
             elapsed = end - start;
             isRunning = false;
         }

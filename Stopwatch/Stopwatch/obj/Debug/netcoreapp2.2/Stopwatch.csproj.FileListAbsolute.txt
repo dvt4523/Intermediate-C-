@@ -1,0 +1,10 @@
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\bin\Debug\netcoreapp2.2\Stopwatch.deps.json
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\bin\Debug\netcoreapp2.2\Stopwatch.runtimeconfig.json
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\bin\Debug\netcoreapp2.2\Stopwatch.runtimeconfig.dev.json
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\bin\Debug\netcoreapp2.2\Stopwatch.dll
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\bin\Debug\netcoreapp2.2\Stopwatch.pdb
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\obj\Debug\netcoreapp2.2\Stopwatch.csprojAssemblyReference.cache
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\obj\Debug\netcoreapp2.2\Stopwatch.AssemblyInfoInputs.cache
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\obj\Debug\netcoreapp2.2\Stopwatch.AssemblyInfo.cs
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\obj\Debug\netcoreapp2.2\Stopwatch.dll
+E:\C#\Intermediate C#\Stopwatch\Stopwatch\obj\Debug\netcoreapp2.2\Stopwatch.pdb
