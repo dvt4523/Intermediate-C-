@@ -1,0 +1,7 @@
+E:\C#\MessagingApp\MessagingApp\bin\Debug\MessagingApp.exe.config
+E:\C#\MessagingApp\MessagingApp\bin\Debug\MessagingApp.exe
+E:\C#\MessagingApp\MessagingApp\bin\Debug\MessagingApp.pdb
+E:\C#\MessagingApp\MessagingApp\obj\Debug\MessagingApp.csprojAssemblyReference.cache
+E:\C#\MessagingApp\MessagingApp\obj\Debug\MessagingApp.csproj.CoreCompileInputs.cache
+E:\C#\MessagingApp\MessagingApp\obj\Debug\MessagingApp.exe
+E:\C#\MessagingApp\MessagingApp\obj\Debug\MessagingApp.pdb
